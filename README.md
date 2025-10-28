@@ -34,7 +34,8 @@ vi)Sequence Diagram
 # SEQUENCE DIAGRAM
 ![SequenceDiagram1](https://github.com/user-attachments/assets/cb38a45b-a9f4-4fdc-bb02-bb54964c9f17)
 # COMMUNICATION DIAGRAM
-<img width="1213" height="1012" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/677def3d-5861-4a22-b15d-3c3f0c048386" />
+![CommunicationDiagram1](https://github.com/user-attachments/assets/c9a16905-ac07-4aae-9f24-c5ff610505c5)
+
 
 
 
