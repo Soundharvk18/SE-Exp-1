@@ -41,3 +41,4 @@ vi)Sequence Diagram
 
 
 # RESULT:
+Thus the ATM & BANKING SYSTEM was created successfully.
